@@ -1,6 +1,8 @@
 # cookie-compliance
 Using GitHub Pages to demo CMP behavior.
 
+View the CMP: [https://maxwellmlin.com/cookie-compliance/?ac_cmd=show](https://maxwellmlin.com/cookie-compliance/?ac_cmd=show)
+
 ## AppConsent API Testing
 ```javascript
 // Log changes to the tcString (TCF v2)
